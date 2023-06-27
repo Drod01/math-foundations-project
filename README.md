@@ -1,96 +1,90 @@
-# Conversion-Calculator'
+# Number Conversion and Calculator 
 
-This project is a project that consist of a conversion calculator that solves, Number Conversions, Decimal to Binary, Hexidecimal, to Octal which is sorted in the code itself. As well as Hexidecimal to Binary, to Decimal, to Octal that also inclused the formatHex to keep the project neat. Lastly from the number conversions, Octal to Binary, to Decimal, to Hexidecimal and Binary to Decimal, to Hexidecimal, to Octal. 
+## Description
 
-Another conversion this calculator does is Prime Factorization, Greatest Common Denominator, and Least Common Multiple that includes seperated parts within the code as well.  
+This Python program provides a user-friendly interface to perform number conversion and calculations. It supports the conversion of numbers between decimal, hexadecimal, octal, and binary formats. Additionally, it includes a matrix calculator and prime calculator with various functionalities.
 
+The Number Conversion Calculator allows you to convert numbers from one format to another. Whether you have a decimal, hexadecimal, octal, or binary number, you can easily convert it to any other supported format. The program handles the conversions and displays the results promptly.
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+The Matrix Calculator enables you to perform operations on matrices. You can perform matrix addition, subtraction, multiplication, and other operations. Detailed instructions on using the matrix calculator are provided in the program.
+
+The Prime Calculator assists in prime number-related calculations. It can determine prime factors, calculate the greatest common denominator (GCD), and find the lowest common multiple (LCM). The prime calculator is designed to provide accurate results for various input numbers.
+
+## Features
+Number Conversion Calculator:
+
+Converts decimal numbers to binary, hexadecimal, and octal.
+Converts hexadecimal numbers to decimal, binary, and octal.
+Converts octal numbers to decimal, binary, and hexadecimal.
+Converts binary numbers to decimal, hexadecimal, and octal.
 
 ## Getting Started
+To run the program, follow these steps:
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+1. Clone the repository or download the source code.
 
-### Prerequisites
+2. Make sure you have Python installed (version 3.5 or above).
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+3. Open a terminal or command prompt and navigate to the project directory.
 
-### Installing
+4. Run the following command to execute the program:
 
-A step by step series of examples that tell you how to get a development
-environment running
+python calculator.py
 
-Say what the step will be
+5. Follow the on-screen instructions to use the different features of the program.
 
-    Give the example
+## Usage
+Number Conversion Calculator:
 
-And repeat
+Choose the number type you want to convert from (Decimal, Hexadecimal, Octal, Binary).
+Enter the corresponding number.
+The program will display the conversions to other number types.
 
-    until finished
+Choose the function you want to use (Prime Number, GCD, LCD).
+Enter the required numbers.
+The program will display the results.
 
-End with an example of getting some data out of the system or using it
-for a little demo
+## Example
+Here's an example of using the Number Conversion Calculator:
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
-
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+Choose the number type: Decimal
+Enter a decimal number: 25
+The program will display the conversions:
+Decimal: 25
+Decimal to Binary: 00011001
+Decimal to Hexadecimal: 19
+Decimal to Octal: 31
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+This project is licensed under the MIT License.
 
-## Acknowledgments
+## Contributing 
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+Contributions to this project are welcome! If you would like to contribute, please follow these steps:
+
+Fork the repository on GitHub.
+
+Create a new branch for your feature or bug fix.
+
+Make your changes in the branch and commit them.
+
+Push your branch to your forked repository.
+
+Submit a pull request to the original repository.
+
+Please ensure that your contributions adhere to the following guidelines:
+
+Maintain a clear and concise coding style consistent with the existing codebase.
+
+Provide detailed information about the changes or additions made.
+
+Test your changes thoroughly to ensure they do not introduce any issues.
+
+Follow the existing naming conventions and code formatting.
+
+Be respectful and considerate towards other contributors.
+
+Your contributions can include bug fixes, feature enhancements, documentation improvements, or any other valuable additions to the project.
+
+
