@@ -14,21 +14,28 @@ The Prime Calculator assists in prime number-related calculations. It can determ
 Number Conversion Calculator:
 
 Converts decimal numbers to binary, hexadecimal, and octal.
+
 Converts hexadecimal numbers to decimal, binary, and octal.
+
 Converts octal numbers to decimal, binary, and hexadecimal.
+
 Converts binary numbers to decimal, hexadecimal, and octal.
 
 Matrix Calculator:
 
 Performs matrix addition: Add two matrices of the same size together by adding corresponding elements.
-Performs matrix subtraction: Subtract one matrix from another of the same size by subtracting corresponding elements.
-Performs matrix multiplication: Multiply two matrices together following the matrix multiplication rules.
-Performs scalar multiplication: Multiply a matrix by a scalar, which multiplies each element of the matrix by the scalar value.
-Performs matrix transposition: Transpose a matrix by interchanging its rows and columns.
-Calculates the determinant: Calculate the determinant of a square matrix.
-Calculates the inverse: Find the inverse of a square matrix if it exists.
 
-The Matrix Calculator enables you to perform operations on matrices. You can perform matrix addition, subtraction, multiplication, and other operations. Simply input the matrices you want to operate on, and the calculator will provide the result. The matrix calculator is designed to handle matrices of different sizes and validate the inputs for compatibility.
+Performs matrix subtraction: Subtract one matrix from another of the same size by subtracting corresponding elements.
+
+Performs matrix multiplication: Multiply two matrices together following the matrix multiplication rules.
+
+Performs scalar multiplication: Multiply a matrix by a scalar, which multiplies each element of the matrix by the scalar value.
+
+Performs matrix transposition: Transpose a matrix by interchanging its rows and columns.
+
+Calculates the determinant: Calculate the determinant of a square matrix.
+
+Calculates the inverse: Find the inverse of a square matrix if it exists.
 
 ## Getting Started
 To run the program, follow these steps:
