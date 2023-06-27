@@ -1,4 +1,4 @@
-# math-foundations-project-22'
+# Conversion-Calculator'
 
 This project is a project that consist of a conversion calculator that solves, Number Conversions, Decimal to Binary, Hexidecimal, to Octal which is sorted in the code itself. As well as Hexidecimal to Binary, to Decimal, to Octal that also inclused the formatHex to keep the project neat. Lastly from the number conversions, Octal to Binary, to Decimal, to Hexidecimal and Binary to Decimal, to Hexidecimal, to Octal. 
 
